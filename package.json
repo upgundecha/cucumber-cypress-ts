@@ -1,0 +1,26 @@
+{
+  "name": "cucumber-cypress-ts",
+  "version": "1.0.0",
+  "description": "Cucumber and Cypress integration with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upgundecha/cucumber-cypress-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upgundecha/cucumber-cypress-ts/issues"
+  },
+  "homepage": "https://github.com/upgundecha/cucumber-cypress-ts#readme",
+  "dependencies": {
+    "cypress": "^4.6.0",
+    "cypress-cucumber-preprocessor": "^2.3.1",
+    "tsify": "^4.0.1",
+    "typescript": "^3.9.3"
+  }
+}
